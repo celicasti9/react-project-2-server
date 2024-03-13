@@ -24,5 +24,27 @@
       "id": 2,
       "name": "Castillo La Cone"
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin"
+    },
+    {
+      "id": 2,
+      "username": "celiel@live.com",
+      "password": "admin"
+    },
+    {
+      "id": 3,
+      "username": "celiel13@gmail.com",
+      "password": "admin"
+    },
+    {
+      "id": 4,
+      "username": "nellycarrion@gmail.com",
+      "password": "12345678"
+    }
   ]
 }
