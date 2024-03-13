@@ -1,0 +1,28 @@
+{
+  "shows": [
+    {
+      "id": 1,
+      "title": "En contacto con Nelly Carrion",
+      "description": "Temas de farandula, politica y mas. Enterate de lo ultimo durante la manana.",
+      "schedule": "Lunes a Viernes 6:00am - 10:00am",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "title": "Las mas que suenan con Castillo La Cone",
+      "description": "El show urbano que te trae los temas con mayor impulso en la industria de la música urbana. Conducido por Castillo La Cone.",
+      "schedule": "Viernes 8:00pm - 09:00pm",
+      "userId": 1
+    }
+  ],
+  "talents": [
+    {
+      "id": 1,
+      "name": "Nelly Carrion"
+    },
+    {
+      "id": 2,
+      "name": "Castillo La Cone"
+    }
+  ]
+}
